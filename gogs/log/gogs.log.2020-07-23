@@ -1,0 +1,1 @@
+2020/07/24 01:08:59 [ERROR] [...gs/internal/route/repo/commit.go:122 Diff()] get commit by ID: exit status 128 - fatal: git cat-file be4710147451c88a3e023468c28400677a84ad8e: bad file

@@ -1,0 +1,12 @@
+2020/04/21 02:51:55 [ INFO] Gogs 0.12.0+dev
+2020/04/21 02:51:56 [ INFO] Run mode: Production
+2020/04/21 02:51:56 [ INFO] Listen on http://0.0.0.0:10080
+2020/04/21 02:55:23 [ INFO] Gogs 0.12.0+dev
+2020/04/21 02:55:23 [ INFO] Run mode: Production
+2020/04/21 02:55:23 [ INFO] Listen on http://0.0.0.0:10080
+2020/04/21 03:01:32 [ INFO] Gogs 0.12.0+dev
+2020/04/21 03:01:33 [ INFO] Run mode: Production
+2020/04/21 03:01:33 [ INFO] Listen on http://0.0.0.0:3000
+2020/04/21 08:44:06 [ERROR] [...gs/internal/route/repo/commit.go:122 Diff()] get commit by ID: exit status 128 - fatal: git cat-file be4710147451c88a3e023468c28400677a84ad8e: bad file
+2020/04/21 14:53:29 [ERROR] [...gs/internal/route/repo/commit.go:122 Diff()] get commit by ID: exit status 128 - fatal: git cat-file be4710147451c88a3e023468c28400677a84ad8e: bad file
+2020/04/24 18:30:00 [ERROR] [...gs/internal/route/repo/commit.go:122 Diff()] get commit by ID: exit status 128 - fatal: git cat-file be4710147451c88a3e023468c28400677a84ad8e: bad file

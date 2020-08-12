@@ -1,0 +1,6 @@
+2020/06/30 07:59:26 [ INFO] Gogs 0.12.0+dev
+2020/06/30 07:59:26 [FATAL] [...o/gogs/internal/route/install.go:75 GlobalInit()] Failed to initialize ORM engine: open database: dial tcp 59.110.212.116:3306: connect: connection refused
+2020/06/30 07:59:26 [ INFO] Gogs 0.12.0+dev
+2020/06/30 07:59:27 [ INFO] Run mode: Production
+2020/06/30 07:59:28 [ INFO] Listen on http://0.0.0.0:3000
+2020/07/08 09:43:48 [ERROR] [...gs/internal/route/repo/commit.go:122 Diff()] get commit by ID: exit status 128 - fatal: git cat-file be4710147451c88a3e023468c28400677a84ad8e: bad file

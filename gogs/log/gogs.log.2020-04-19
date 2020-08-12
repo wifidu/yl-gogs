@@ -1,0 +1,13 @@
+2020/04/19 06:54:40 [ INFO] Gogs 0.12.0+dev
+2020/04/19 06:54:40 [ INFO] Git config user.name set to Gogs
+2020/04/19 06:54:40 [ INFO] Git config user.email set to gogs@fake.local
+2020/04/19 06:54:40 [ INFO] Run mode: Production
+2020/04/19 06:54:40 [ INFO] First-time run install finished!
+2020/04/19 06:55:07 [ERROR] [reflect/value.go:460 call()] open repository: file does not exist
+2020/04/19 06:55:09 [ERROR] [reflect/value.go:460 call()] open repository: file does not exist
+2020/04/19 06:55:11 [ERROR] [reflect/value.go:460 call()] open repository: file does not exist
+2020/04/19 06:55:22 [ERROR] [reflect/value.go:460 call()] open repository: file does not exist
+2020/04/19 06:55:41 [ WARN] HTTP.getGitRepoPath: stat /data/git/gogs-repositories/zhaodayuan/pension_operate.git: no such file or directory
+2020/04/19 06:55:56 [ERROR] [reflect/value.go:460 call()] open repository: file does not exist
+2020/04/19 06:56:01 [ERROR] [reflect/value.go:460 call()] open repository: file does not exist
+2020/04/20 02:51:40 [ERROR] [...s/internal/route/user/profile.go:91 Followers()] getter: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.id=follow.user_id WHERE (follow.follow_id=?) LIMIT 40' at line 1
